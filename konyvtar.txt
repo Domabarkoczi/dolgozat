@@ -1,4 +1,4 @@
-Szerzõ,Cím,Kiadás Éve,ISBN,Állapot
+Szerz,Cm,Kiads ve,ISBN,llapot
 J.K. Rowling,Harry Potter and the Philosopher's Stone,1997,0-7475-3269-9,Olvasott
 George Orwell,1984,1949,0-452-28423-6,Olvasatlan
 J.R.R. Tolkien,The Hobbit,1937,0-618-00221-9,Olvasott
@@ -12,5 +12,5 @@ Ernest Hemingway,The Old Man and the Sea,1952,0-684-80122-1,Olvasott
 William Shakespeare,Hamlet,1603,978-0521618748,Olvasatlan
 Agatha Christie,Murder on the Orient Express,1934,0-000-72825-6,Olvasott
 Louisa May Alcott,Little Women,1868,0-451-52994-6,Olvasatlan
-Charlotte Brontë,Jane Eyre,1847,0-14-144114-3,Olvasott
+Charlotte Bront,Jane Eyre,1847,0-14-144114-3,Olvasott
 Dan Brown,The Da Vinci Code,2003,0-385-50420-9,Olvasatlan
